@@ -67,7 +67,7 @@ the frontend lab - the frontend lab - the frontend lab
 
 
 
-// RxJS 5 In-depth (Best of Web 2016) by @gerardsans
+// RxJS 5 In-depth (the frontend lab) by @gerardsans
 //=====================================================
 // 1) Create a basic Observable  - 
 // 2) Add error handling         -
